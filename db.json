@@ -1,0 +1,223 @@
+{
+    "Produtos":[
+        {
+            "id":1,
+            "nome":"Vestido Amy Back to Black",
+            "tamanho":"M",
+            "genero":"F",
+            "preco": 489.90,
+            "idCat": 1
+        },
+        {
+            "id":2,
+            "nome":"Vestido curto vermelho",
+            "tamanho":"P",
+            "genero":"F",
+            "preco": 179.90,
+            "idCat": 1
+        },
+        {
+            "id":3,
+            "nome":"Vestido Midi Vintage",
+            "tamanho":"G",
+            "genero":"F",
+            "preco": 109.90,
+            "idCat": 1
+        },
+        {
+            "id":4,
+            "nome":"Vestido Criss Cross",
+            "tamanho":"M",
+            "genero":"F",
+            "preco": 139.90,
+            "idCat": 1
+        },
+        {
+            "id":5,
+            "nome":"Moleton NY",
+            "tamanho":"P",
+            "genero":"N",
+            "preco": 95.900,
+            "idCat": 2
+        },
+        {
+            "id":6,
+            "nome":"Moleton - Ho, Yes",
+            "tamanho":"M",
+            "genero":"N",
+            "preco": 75.900,
+            "idCat": 2
+        },
+        {
+            "id":7,
+            "nome":"Moleton - branco liso",
+            "tamanho":"G",
+            "genero":"M",
+            "preco": 69.900,
+            "idCat": 2
+        },
+        {
+            "id":8,
+            "nome":"Moleton - Areia liso",
+            "tamanho":"M",
+            "genero":"N",
+            "preco": 69.900,
+            "idCat": 2
+        },
+        {
+            "id":9,
+            "nome":"Camisa masculina basica",
+            "tamanho":"P",
+            "genero":"M",
+            "preco": 95.900,
+            "idCat": 3
+        },
+        {
+            "id":10,
+            "nome":"Camisa - Estampa leão",
+            "tamanho":"G",
+            "genero":"M",
+            "preco": 95.900,
+            "idCat": 3
+        },
+        {
+            "id":11,
+            "nome":"Regata alcinha",
+            "tamanho":"M",
+            "genero":"F",
+            "preco": 119.90,
+            "idCat": 3
+        },
+        {
+            "id":12,
+            "nome":"Blusa feminina Corsed Cropped",
+            "tamanho":"P",
+            "genero":"F",
+            "preco": 89.900,
+            "idCat": 3
+        },
+        {
+            "id":13,
+            "nome":"Calça Jeans masculina",
+            "tamanho":"G",
+            "genero":"M",
+            "preco": 89.900,
+            "idCat": 4
+        },
+        {
+            "id":14,
+            "nome":"Calça Moleton masculina",
+            "tamanho":"M",
+            "genero":"M",
+            "preco": 89.900,
+            "idCat": 4
+        },
+        {
+            "id":15,
+            "nome":"Calça Jeans feminina",
+            "tamanho":"P",
+            "genero":"F",
+            "preco": 89.900,
+            "idCat": 4
+        },
+        {
+            "id":16,
+            "nome":"Calça Moleton feminina",
+            "tamanho":"P",
+            "genero":"F",
+            "preco": 99.900,
+            "idCat": 4
+        },
+        {
+            "id":17,
+            "nome":"Bermuda de Sarja masculina",
+            "tamanho":"M",
+            "genero":"M",
+            "preco": 75.900,
+            "idCat": 5
+        },
+        {
+            "id":18,
+            "nome":"Bermuda Moleton masculina",
+            "tamanho":"G",
+            "genero":"M",
+            "preco": 69.900,
+            "idCat": 5
+        },
+        {
+            "id":19,
+            "nome":"Bermuda Tactel masculina",
+            "tamanho":"G",
+            "genero":"M",
+            "preco": 49.900,
+            "idCat": 5
+        },
+        {
+            "id":20,
+            "nome":"Bermuda Jeans masculina",
+            "tamanho":"M",
+            "genero":"M",
+            "preco": 49.900,
+            "idCat": 5
+        },
+        {
+            "id":21,
+            "nome":"Tênis Nike Downshifter 11 masculino",
+            "tamanho":"P",
+            "genero":"M",
+            "preco": 209.90,
+            "idCat": 6
+        },
+        {
+            "id":22,
+            "nome":"Sapato Social",
+            "tamanho":"M",
+            "genero":"M",
+            "preco": 145.90,
+            "idCat": 6
+        },
+        {
+            "id":23,
+            "nome":"Tênis Casual feminino",
+            "tamanho":"G",
+            "genero":"F",
+            "preco": 145.90,
+            "idCat": 6
+        },
+        {
+            "id":24,
+            "nome":"Sandalia Salto alto",
+            "tamanho":"M",
+            "genero":"F",
+            "preco": 145.90,
+            "idCat": 6
+        }
+    ],
+    
+    "Categorias":[
+            {
+                "id": 1,
+                "descricao": "vestido"
+            },
+            {
+                "id": 2,
+                "descricao": "moleton"
+            },
+            {
+                "id": 3,
+                "descricao": "Camisa"
+            },
+            {
+                "id": 4,
+                "descricao": "calça"
+            },
+            {
+                "id": 5,
+                "descricao": "bermuda"
+            },
+            {
+                "id": 6,
+                "descricao": "calçado"
+            }
+        ]
+}
